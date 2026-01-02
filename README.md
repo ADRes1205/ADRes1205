@@ -2,6 +2,7 @@
 
 Data Science Master's Student | 3 Years Analyst Experience
 
+<img src="2EF8D820-8D83-4537-8962-26AD704F2175_1_105_c.jpeg" width="300"/>
 
 ## About Me
 I'm a data science graduate student with 3 years of professional analyst experience. I'm passionate about leveraging machine learning and data analytics to drive business insights and solve complex problems.
