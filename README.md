@@ -1,4 +1,4 @@
-# Ann Dunn - Data Science Portfolio
+# Data Science Portfolio
 
 Data Science Master's Student | 3 Years Analyst Experience
 
