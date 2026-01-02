@@ -1,4 +1,4 @@
-# Ann Dunn Data Science Portfolio
+# Ann Dunn - Data Science Portfolio
 
 <img src="2EF8D820-8D83-4537-8962-26AD704F2175_1_105_c.jpeg" width="300"/>
 
