@@ -24,7 +24,7 @@ MS Business Intelligence and Data Analytics
 **Analytics:** Data Analysis, Statistical Analysis, Time Series Analysis, Business Modeling
 
 ## Projects
-*Coming soon - check back for project repositories showcasing my work in machine learning, data analysis, and engineering.*
+*Check out my project repositories showcasing my work in machine learning, data analysis, and engineering.
 
 ## Contact
 📧 morr.ann4@gmail.com  
