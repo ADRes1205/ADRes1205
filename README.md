@@ -1,7 +1,7 @@
 # Ann Dunn - Data Science Portfolio
 
 ## About Me
-I'm a data science graduate student with 3 years of professional analyst experience. I'm passionate about leveraging machine learning and data analytics to drive business insights and solve complex problems.
+I'm a Data scientist with a background in product analytics and ML across B2B and B2C environments. My work focuses on leveraging machine learning and data analytics to drive business insights and solve complex problems.
 
 ## Education
 **Saint Mary's University of Minnesota**  
@@ -22,11 +22,11 @@ MS Business Intelligence and Data Analytics
 **Analytics:** Data Analysis, Statistical Analysis, Time Series Analysis, Business Modeling
 
 ## Projects
-*Check out my project repositories showcasing my work in machine learning, data analysis, and engineering.
+**[Customer Churn Prediction](https://github.com/yourusername/churn-model)**
+Built a classification model using Python and Scikit-Learn to predict customer churn. 
+Evaluated using precision, recall, and F1.
 
 ## Contact
-📧 morr.ann4@gmail.com  
 💼 [LinkedIn](https://www.linkedin.com/in/ann-dunn/)
 
 ---
-*Feel free to explore my repositories and reach out if you'd like to connect!*
