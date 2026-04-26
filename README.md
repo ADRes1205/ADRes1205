@@ -22,7 +22,7 @@ MS Business Intelligence and Data Analytics
 **Analytics:** Data Analysis, Statistical Analysis, Time Series Analysis, Business Modeling
 
 ## Projects
-**[Customer Churn Prediction](https://github.com/yourusername/churn-model)**
+**[Customer Churn Prediction](https://github.com/ADRes1205/CustomerChurnBanking)**
 Built a classification model using Python and Scikit-Learn to predict customer churn. 
 Evaluated using precision, recall, and F1.
 
